@@ -9,7 +9,7 @@ TO-DO
 ### Seen-to-Seen Voice Conversion
 
 <section class="page-section bg-primary text-white mb-0" id="many-to-many">
-    <div class="container">
+    <div class="container" style="width=100%">
         <!-- About Section Heading-->
         <div class="text-center">
           <h2 class="page-section-heading d-inline-block text-white">Seen-to-Seen Voice Conversion</h2>
@@ -32,12 +32,12 @@ TO-DO
                   </thead>
                   <tbody>
                     <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p226 (Male)</p>
+                      <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
                         <audio id="player" controls >
                             <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
                         </audio>
                       </td>
-                      <td rowspan="4" style="vertical-align: top;"><p>p256 (Male)</p>
+                      <td rowspan="4" style="vertical-align: top;"><p>p334 (Male)</p>
                         <audio id="player" controls>
                             <source src="audio/vctk_orig/p334_396.wav" type="audio/wav" />
                         </audio>
