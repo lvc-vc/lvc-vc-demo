@@ -1,4 +1,4 @@
-# LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions
+<!-- # LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions -->
 
 ## Abstract
 
