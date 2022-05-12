@@ -6,533 +6,244 @@ TO-DO
 
 # Audio Demos
 
-<section class="page-section bg-primary text-white mb-0" id="many-to-many">
-    <div class="container" style="width=100%">
-        <!-- About Section Heading-->
-        <div class="text-center">
-          <h2 class="page-section-heading d-inline-block text-white">Seen-to-Seen Voice Conversion</h2>
-        </div>
-        <!-- Icon Divider-->
-        <div class="divider-custom divider-light">
-            <div class="divider-custom"></div>
-        </div>
-        <!-- About Section Content-->
-        <div class="row">
-            <div class="col-lg-12 ml-auto">
-                <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
-                  <thead>
-                    <tr>
-                      <th style="width: 15%">Source Speaker</th>
-                      <th style="width: 15%">Target Speaker</th>
-                      <th style="width: 40%">Converted Output</th>
-                      <th style="width: 40%">         </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
-                        <audio id="player" controls >
-                            <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="4" style="vertical-align: top;"><p>p334 (Male)</p>
-                        <audio id="player" controls>
-                            <source src="audio/vctk_orig/p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>AdaIN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/adain/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
+## Seen-to-Seen Voice Conversion
 
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/again/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC</p>
-                        <audio id="player" controls>
-                            <source src="audio/autovc/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
+<div class="row">
+    <div class="col-lg-12 ml-auto">
+        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+          <thead>
+            <tr>
+              <th style="width: 15%">Source Speaker</th>
+              <th style="width: 15%">Target Speaker</th>
+              <th style="width: 40%">Converted Output</th>
+              <th style="width: 40%">         </th>
+            </tr>
+          </thead>
+            
+          <tbody>
+            <tr>
+              <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
+                <audio id="player" controls >
+                    <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="4" style="vertical-align: top;"><p>p334 (Male)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AdaIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/adain/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AGAIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/again/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>AutoVC</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AutoVC-F0</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc_f0/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>Blow</p>
+                <audio id="player" controls>
+                    <source src="audio/blow/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>NVC-Net</p>
+                <audio id="player" controls>
+                    <source src="audio/nvcnet/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC</b></p>
+                <audio id="player" controls>
+                    <source src="audio/lvc_vc/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
 
-                      <td><p>AutoVC-F0</p>
-                        <audio id="player" controls>
-                            <source src="audio/autovc_f0/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                            <source src="audio/blow/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
+              
+            <tr>
+              <td rowspan="7" style="vertical-align: top;"><p>p241 (Male)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p241_237.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="7" style="vertical-align: top;"><p>p228 (Female)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AdaIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/adain/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AGAIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/again/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>AutoVC</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AutoVC-F0</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc_f0/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>Blow</p>
+                <audio id="player" controls>
+                    <source src="audio/blow/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>NVC-Net</p>
+                <audio id="player" controls>
+                    <source src="audio/nvcnet/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC</b></p>
+                <audio id="player" controls>
+                    <source src="audio/lvc_vc/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+              
 
-                      <td><p>NVC-Net</p>
-                        <audio id="player" controls>
-                            <source src="audio/nvcnet/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>LVC-VC</b></p>
-                        <audio id="player" controls>
-                            <source src="audio/lvc_vc/s2s/p241_302_p334_396.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-
-                    <tr>
-                      <td rowspan="7" style="vertical-align: top;"><p>p241 (Male)</p>
-                        <audio id="player" controls>
-                            <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="7" style="vertical-align: top;"><p>p228 (Female)</p>
-                        <audio id="player" controls>
-                            <source src="audio/vctk_orig/p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>AdaIN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/adain/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/again/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC</p>
-                        <audio id="player" controls>
-                            <source src="audio/autovc/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC-F0</p>
-                        <audio id="player" controls>
-                            <source src="audio/autovc_f0/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                            <source src="audio/blow/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>NVC-Net</p>
-                        <audio id="player" controls>
-                            <source src="audio/nvcnet/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>LVC-VC</b></p>
-                        <audio id="player" controls>
-                            <source src="audio/lvc_vc/s2s/p241_302_p228_313.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-
-              <p> </p>  
-
-<table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
-                  <thead>
-                    <tr>
-                      <th style="width: 15%">Source Speaker</th>
-                      <th style="width: 15%">Target Speaker</th>
-                      <th style="width: 40%">Converted</th>
-                      <th style="width: 40%">         </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p236 (Female)</p>
-                        <audio id="player" controls >
-                          <source src="audio/seen/source/p236_021-to-p236_021.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="4" style="vertical-align: top;"><p>p259 (Male)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/target/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/startganvc/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/againvc/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc32/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16_adv/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/blow/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p236_021-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                    </tr>
-
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p236 (Female)</p>
-                        <audio id="player" controls >
-                            <source src="audio/seen/source/p236_021-to-p236_021.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="7" style="vertical-align: top;"><p>p234 (Female)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/target/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/startganvc/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/againvc/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc32/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16_adv/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/blow/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p236_021-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                  </tbody>
-              </table>
-
-                                      <p> </p>  
-
-<table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
-                  <thead>
-                    <tr>
-                      <th style="width: 15%">Source Speaker</th>
-                      <th style="width: 15%">Target Speaker</th>
-                      <th style="width: 40%">Converted</th>
-                      <th style="width: 40%">         </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p259 (Male)</p>
-                        <audio id="player" controls >
-                          <source src="audio/seen/source/p259_004-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="4" style="vertical-align: top;"><p>p270 (Male)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/target/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/startganvc/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/againvc/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc32/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16_adv/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/blow/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p259_004-to-p270_024.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                    </tr>
-
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p259 (Male)</p>
-                        <audio id="player" controls >
-                            <source src="audio/seen/source/p259_004-to-p259_004.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="7" style="vertical-align: top;"><p>p240 (Female)</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/target/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/startganvc/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/againvc/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/autovc16/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/autovc32/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/autovc16_adv/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/blow/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p259_004-to-p240_011.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                  </tbody>
-              </table>
-                        <p> </p>                           
-<table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
-                  <thead>
-                    <tr>
-                      <th style="width: 15%">Source Speaker</th>
-                      <th style="width: 15%">Target Speaker</th>
-                      <th style="width: 40%">Converted</th>
-                      <th style="width: 40%">         </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p234 (Female)</p>
-                        <audio id="player" controls >
-                          <source src="audio/seen/source/p234_007-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="4" style="vertical-align: top;"><p>p226 (Male)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/target/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/startganvc/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/againvc/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc32/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16_adv/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/blow/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p234_007-to-p226_018.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                    </tr>
-
-                    <tr>
-                      <td rowspan="4" style="vertical-align: top;"><p>p234 (Female)</p>
-                        <audio id="player" controls >
-                          <source src="audio/seen/source/p234_007-to-p234_007.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td rowspan="7" style="vertical-align: top;"><p>p231 (Female)</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/target/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                      <td><p>StarGAN-VC</p>
-                        <audio id="player" controls>
-                            <source src="audio/seen/startganvc/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AGAIN-VC</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/againvc/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>AutoVC (&tau;  = 32)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc32/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/autovc16_adv/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-
-                      <td><p>Blow</p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/blow/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><p><b>VoiceMixer (Ours)</b></p>
-                        <audio id="player" controls>
-                          <source src="audio/seen/voicemixer/p234_007-to-p231_005.npy.wav" type="audio/wav" />
-                        </audio>
-                      </td>
-                    </tr>
-                  </tbody>
-              </table>
-          </div>
-        </div>
+            <tr>
+              <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
+                <audio id="player" controls >
+                    <source src="audio/vctk_orig/p247_311.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="4" style="vertical-align: top;"><p>p245 (Male)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AdaIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/adain/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AGAIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/again/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>AutoVC</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AutoVC-F0</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc_f0/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>Blow</p>
+                <audio id="player" controls>
+                    <source src="audio/blow/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>NVC-Net</p>
+                <audio id="player" controls>
+                    <source src="audio/nvcnet/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC</b></p>
+                <audio id="player" controls>
+                    <source src="audio/lvc_vc/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+              
+              
+            <tr>
+              <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
+                <audio id="player" controls >
+                    <source src="audio/vctk_orig/p247_005.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="4" style="vertical-align: top;"><p>p335 (Female)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AdaIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/adain/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AGAIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/again/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>AutoVC</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AutoVC-F0</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc_f0/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>Blow</p>
+                <audio id="player" controls>
+                    <source src="audio/blow/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>NVC-Net</p>
+                <audio id="player" controls>
+                    <source src="audio/nvcnet/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC</b></p>
+                <audio id="player" controls>
+                    <source src="audio/lvc_vc/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+              
+          </tbody>
+        </table>
     </div>
-</section>
+</div>
 
 ### Unseen-to-Seen Voice Conversion
 
