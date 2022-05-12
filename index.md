@@ -9,7 +9,7 @@ TO-DO
 ## Seen-to-Seen Voice Conversion
 
 <div class="row" width="auto">
-    <div class="col-12">
+    <div class="col-sm-12">
         <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
