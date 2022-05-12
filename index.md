@@ -1,4 +1,4 @@
-<!-- ## LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions -->
+## LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions
 
 ## Abstract
 
@@ -7,6 +7,13 @@ TO-DO
 ## Audio Demos
 
 ### Seen-to-Seen Voice Conversion
+
+```html
+tr td:last-child {
+    width: 1%;
+    white-space: nowrap;
+}
+```
 
 <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px; width: 100%">
   <thead>
