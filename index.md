@@ -10,9 +10,132 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Seen-to-Seen Voice Conversion
 
-| Source Speaker  | Target Speaker  | Converted Output  |
-| :---            | :----:          | ---:              |
-| p244 (Female)   | p314 (Female)   | LVC-VC   |
+<table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+  <thead>
+    <tr>
+      <th style="width: 15%">Source Speaker</th>
+      <th style="width: 15%">Target Speaker</th>
+      <th style="width: 40%">Converted</th>
+      <th style="width: 40%">         </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4" style="vertical-align: top;"><p>p236 (Female)</p>
+        <audio id="player" controls >
+          <source src="audio/seen/source/p236_021-to-p236_021.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td rowspan="4" style="vertical-align: top;"><p>p259 (Male)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/target/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td><p>StarGAN-VC</p>
+        <audio id="player" controls>
+          <source src="audio/seen/startganvc/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>AGAIN-VC</p>
+        <audio id="player" controls>
+          <source src="audio/seen/againvc/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p>AutoVC (&tau;  = 16)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc16/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>AutoVC (&tau;  = 32)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc32/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc16_adv/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>Blow</p>
+        <audio id="player" controls>
+          <source src="audio/seen/blow/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p><b>VoiceMixer (Ours)</b></p>
+        <audio id="player" controls>
+          <source src="audio/seen/voicemixer/p236_021-to-p259_004.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+    </tr>
+
+    <tr>
+      <td rowspan="4" style="vertical-align: top;"><p>p236 (Female)</p>
+        <audio id="player" controls >
+            <source src="audio/seen/source/p236_021-to-p236_021.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td rowspan="7" style="vertical-align: top;"><p>p234 (Female)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/target/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+      <td><p>StarGAN-VC</p>
+        <audio id="player" controls>
+          <source src="audio/seen/startganvc/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>AGAIN-VC</p>
+        <audio id="player" controls>
+          <source src="audio/seen/againvc/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p>AutoVC (&tau;  = 16)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc16/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>AutoVC (&tau;  = 32)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc32/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p>AutoVC + <i>L<sub>advsc</sub></i> (&tau;  = 16)</p>
+        <audio id="player" controls>
+          <source src="audio/seen/autovc16_adv/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+
+      <td><p>Blow</p>
+        <audio id="player" controls>
+          <source src="audio/seen/blow/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+    <tr>
+      <td><p><b>VoiceMixer (Ours)</b></p>
+        <audio id="player" controls>
+          <source src="audio/seen/voicemixer/p236_021-to-p234_007.npy.wav" type="audio/wav" />
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Unseen-to-Seen Voice Conversion
 
