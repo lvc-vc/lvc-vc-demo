@@ -1463,3 +1463,67 @@ TO-DO
 
 ### Un-targeted Voice Anonymization
 
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+          <thead>
+            <tr>
+              <th style="width: 15%">Source Speaker</th>
+              <th style="width: 15%">Target Speaker</th>
+              <th style="width: 40%">Converted Output</th>
+              <th style="width: 40%">         </th>
+            </tr>
+          </thead>
+            
+          <!-- F2 to M -->
+          <tbody>
+            <tr>
+              <td rowspan="4" style="vertical-align: top; font-size: 10px"><p>p308 (Female)</p>
+                <audio id="player" controls >
+                    <source src="audio/vctk_orig/p308_103.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="4" style="vertical-align: top;"><p>p311 (Male)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AdaIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/adain/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AGAIN-VC</p>
+                <audio id="player" controls>
+                    <source src="audio/again/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>AutoVC</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p>AutoVC-F0</p>
+                <audio id="player" controls>
+                    <source src="audio/autovc_f0/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p>NVC-Net</p>
+                <audio id="player" controls>
+                    <source src="audio/nvcnet/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td><p><b>LVC-VC</b></p>
+                <audio id="player" controls>
+                    <source src="audio/lvc_vc/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
