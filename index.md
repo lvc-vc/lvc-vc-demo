@@ -211,7 +211,7 @@ TO-DO
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p247 (Male)</p>
                 <audio id="player" controls>
-                    <source src="audio/vctk_orig/p241_005.wav" type="audio/wav" />
+                    <source src="audio/vctk_orig/p247_005.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p335 (Female)</p>
@@ -588,8 +588,11 @@ TO-DO
                 </audio>
               </td>
             </tr>
+            <tr>
+            </tr>
 
             <!-- M1 to F -->
+            <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p279 (Male)</p>
                 <audio id="player" controls>
                     <source src="audio/vctk_orig/p279_255.wav" type="audio/wav" />
@@ -600,6 +603,7 @@ TO-DO
                     <source src="audio/vctk_orig/p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
+            </tr>
             <tr>
               <td><p>AdaIN-VC</p>
                 <audio id="player" controls>
