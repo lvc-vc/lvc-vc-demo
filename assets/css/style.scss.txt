@@ -2,10 +2,3 @@
 ---
 
 @import 'jekyll-theme-cayman';
-
-@import "{{ site.theme }}";
-
-header {
-    display: "LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions
-";
-}
