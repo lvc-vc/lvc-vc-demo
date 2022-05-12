@@ -13,10 +13,10 @@ TO-DO
         <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
-              <th style="width: 15%">Source Speaker</th>
-              <th style="width: 15%">Target Speaker</th>
-              <th style="width: 40%">Converted Output</th>
-              <th style="width: 40%">         </th>
+              <th style="width: 7%">Source Speaker</th>
+              <th style="width: 7%">Target Speaker</th>
+              <th style="width: 20%">Converted Output</th>
+              <th style="width: 20%">         </th>
             </tr>
           </thead>
             
