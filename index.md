@@ -13,7 +13,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -141,7 +141,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -270,7 +270,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -398,7 +398,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -530,7 +530,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -648,7 +648,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -763,7 +763,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -877,7 +877,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -995,7 +995,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -1109,7 +1109,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -1224,7 +1224,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
@@ -1338,7 +1338,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
               <th style="width: 15%">Source Speaker</th>
