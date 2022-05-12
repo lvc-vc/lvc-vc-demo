@@ -26,12 +26,12 @@ TO-DO
           <!-- M1 to M -->
           <tbody>
             <tr>
-              <td rowspan="2" style="vertical-align: top;"><p>p241 (Male)</p>
+              <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
                 <audio id="player" controls >
                     <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="2" style="vertical-align: top;"><p>p334 (Male)</p>
+              <td rowspan="4" style="vertical-align: top;"><p>p334 (Male)</p>
                 <audio id="player" controls>
                     <source src="audio/vctk_orig/p334_396.wav" type="audio/wav" />
                 </audio>
@@ -81,12 +81,12 @@ TO-DO
 
             <!-- M1 to F -->
             <tr>
-              <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
+              <td rowspan="7" style="vertical-align: top;"><p>p241 (Male)</p>
                 <audio id="player" controls>
                     <source src="audio/vctk_orig/p241_237.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;"><p>p228 (Female)</p>
+              <td rowspan="7" style="vertical-align: top;"><p>p228 (Female)</p>
                 <audio id="player" controls>
                     <source src="audio/vctk_orig/p228_313.wav" type="audio/wav" />
                 </audio>
@@ -1411,7 +1411,7 @@ TO-DO
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p308 (Female)</p>
                 <audio id="player" controls>
-                    <source src="audio/vctk_orig/p308_103.wav" type="audio/wav" />
+                    <source src="audio/vctk_orig/p308_390.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p317 (Female)</p>
@@ -1421,36 +1421,36 @@ TO-DO
               </td>
               <td><p>AdaIN-VC</p>
                 <audio id="player" controls>
-                    <source src="audio/adain/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/adain/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
                 <audio id="player" controls>
-                    <source src="audio/again/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/again/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
                 <audio id="player" controls>
-                    <source src="audio/autovc/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/autovc/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
                 <audio id="player" controls>
-                    <source src="audio/autovc_f0/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/autovc_f0/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
                 <audio id="player" controls>
-                    <source src="audio/nvcnet/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/nvcnet/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls>
-                    <source src="audio/lvc_vc/u2u/p308_103_p317_376.wav" type="audio/wav" />
+                    <source src="audio/lvc_vc/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
