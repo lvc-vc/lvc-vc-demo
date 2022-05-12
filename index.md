@@ -27,7 +27,7 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 50%;">
                     <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1478,7 +1478,7 @@ TO-DO
           <!-- F2 to M -->
           <tbody>
             <tr>
-              <td rowspan="4" style="vertical-align: top; font-size: 10px"><p>p308 (Female)</p>
+              <td rowspan="4" style="vertical-align: top;"><p>p308 (Female)</p>
                 <audio id="player" controls >
                     <source src="audio/vctk_orig/p308_103.wav" type="audio/wav" />
                 </audio>
