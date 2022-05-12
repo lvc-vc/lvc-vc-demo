@@ -1,14 +1,14 @@
-<!-- # LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions -->
+# LVC-VC: End-to-End Zero-Shot Voice Style Transfer using Location-Variable Convolutions
 
-## Abstract
+# Abstract
 
 TO-DO bla
 
 <p></p>
 
-## Audio Demos
+# Audio Demos
 
-### Seen-to-Seen Voice Conversion
+## Seen-to-Seen Voice Conversion
 
 <!-- Source: M1 -->
 <div class="row">
@@ -525,7 +525,7 @@ TO-DO bla
 
 <p></p>
 
-### Unseen-to-Seen Voice Conversion
+## Unseen-to-Seen Voice Conversion
 
 <!-- Source: M1 -->
 <div class="row">
@@ -706,6 +706,8 @@ TO-DO bla
                 </audio>
               </td>
             </tr>
+            <tr>
+            </tr>
 
             <!-- M2 to F -->
             <tr>
@@ -821,6 +823,8 @@ TO-DO bla
                 </audio>
               </td>
             </tr>
+            <tr>
+            </tr>
 
             <!-- F1 to F -->
             <tr>
@@ -935,7 +939,9 @@ TO-DO bla
                 </audio>
               </td>
             </tr>
-
+            <tr>
+            </tr>
+            
             <!-- F2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p308 (Female)</p>
@@ -990,7 +996,7 @@ TO-DO bla
 
 <p></p>
 
-### Unseen-to-Unseen Voice Conversion
+## Unseen-to-Unseen Voice Conversion
 
 <!-- Source: M1 -->
 <div class="row">
