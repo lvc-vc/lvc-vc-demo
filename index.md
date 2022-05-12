@@ -2,7 +2,7 @@
 
 ## Abstract
 
-TO-DO blah
+TO-DO bla
 
 <p></p>
 
@@ -27,53 +27,53 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
-                <audio id="player" controls style="width: 50%;">
+                <audio id="player" controls style="width: 60%;">
                     <source src="audio/vctk_orig/p241_302.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p334 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p241_302_p334_396.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -82,53 +82,53 @@ TO-DO blah
             <!-- M1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p241 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p241_237.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p228 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -155,53 +155,53 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p247_311.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p245 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p247_311_p245_143.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -210,53 +210,53 @@ TO-DO blah
             <!-- M2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p247 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p247_005.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p335 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -284,53 +284,53 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p225 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p225_224.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p225_224_p247_455.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -339,53 +339,53 @@ TO-DO blah
             <!-- F1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p225 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p225_336.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p329 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p225_336_p329_300.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -412,53 +412,53 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p244 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p244_167.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p254 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p244_167_p254_109.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -467,53 +467,53 @@ TO-DO blah
             <!-- F2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p244 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p244_045.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p314 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/blow/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/s2s/p244_045_p314_265.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -544,46 +544,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p279 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p279_153.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p315 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p279_153_p315_009.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -594,48 +594,48 @@ TO-DO blah
             <!-- M1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p279 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p279_255.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p276 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p279_255_p276_176.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -662,46 +662,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p363_194.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p241 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p363_194_p241_120.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -710,46 +710,46 @@ TO-DO blah
             <!-- M2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p363_106.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p277 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p363_106_p277_271.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -777,46 +777,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p231 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p231_094.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p374 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p231_094_p374_332.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -825,46 +825,46 @@ TO-DO blah
             <!-- F1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p231 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p231_450.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p318 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p231_450_p318_356.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -891,46 +891,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p308_010.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p256 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p308_010_p256_079.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -939,46 +939,46 @@ TO-DO blah
             <!-- F2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p308_381.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p351 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2s/p308_381_p351_104.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1009,46 +1009,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p279 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p279_182.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p279_182_p363_023.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1059,48 +1059,48 @@ TO-DO blah
             <!-- M1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p279 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p279_032.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p240 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1127,46 +1127,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p363_127.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p311 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p363_127_p311_072.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1177,46 +1177,46 @@ TO-DO blah
             <!-- M2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p363_261.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p312 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1244,46 +1244,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p231 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p231_259.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p326 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p231_259_p326_355.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1294,46 +1294,46 @@ TO-DO blah
             <!-- F1 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p231 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p231_318.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p240 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1360,46 +1360,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p308_103.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p311 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1410,46 +1410,46 @@ TO-DO blah
             <!-- F2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p308_390.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="7" style="vertical-align: top;"><p>p317 (Female)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1479,46 +1479,46 @@ TO-DO blah
           <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls >
+                <audio id="player" controls style="width: 60%; >
                     <source src="audio/vctk_orig/p308_103.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="4" style="vertical-align: top;"><p>p311 (Male)</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/vctk_orig/p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/adain/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/again/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/autovc_f0/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>NVC-Net</p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/nvcnet/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls>
+                <audio id="player" controls style="width: 60%;>
                     <source src="audio/lvc_vc/u2u/p308_103_p311_246.wav" type="audio/wav" />
                 </audio>
               </td>
