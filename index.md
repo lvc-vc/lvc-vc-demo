@@ -129,8 +129,24 @@ TO-DO
                 </audio>
               </td>
             </tr>
-              
+          </tbody>
+        </table>
+    </div>
+</div>
 
+<div class="row">
+    <div class="col-lg-12 ml-auto">
+        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+          <thead>
+            <tr>
+              <th style="width: 15%">Source Speaker</th>
+              <th style="width: 15%">Target Speaker</th>
+              <th style="width: 40%">Converted Output</th>
+              <th style="width: 40%">         </th>
+            </tr>
+          </thead>
+            
+          <tbody>
             <tr>
               <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
                 <audio id="player" controls >
@@ -184,66 +200,66 @@ TO-DO
                 </audio>
               </td>
             </tr>
-              
+
               
             <tr>
-              <td rowspan="4" style="vertical-align: top;"><p>p247 (Male)</p>
-                <audio id="player" controls >
-                    <source src="audio/vctk_orig/p247_005.wav" type="audio/wav" />
+              <td rowspan="7" style="vertical-align: top;"><p>p247 (Male)</p>
+                <audio id="player" controls>
+                    <source src="audio/vctk_orig/p241_005.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;"><p>p335 (Female)</p>
+              <td rowspan="7" style="vertical-align: top;"><p>p335 (Female)</p>
                 <audio id="player" controls>
                     <source src="audio/vctk_orig/p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AdaIN-VC</p>
                 <audio id="player" controls>
-                    <source src="audio/adain/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/adain/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AGAIN-VC</p>
                 <audio id="player" controls>
-                    <source src="audio/again/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/again/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>AutoVC</p>
                 <audio id="player" controls>
-                    <source src="audio/autovc/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/autovc/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>AutoVC-F0</p>
                 <audio id="player" controls>
-                    <source src="audio/autovc_f0/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/autovc_f0/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p>Blow</p>
                 <audio id="player" controls>
-                    <source src="audio/blow/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/blow/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
               <td><p>NVC-Net</p>
                 <audio id="player" controls>
-                    <source src="audio/nvcnet/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/nvcnet/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
             <tr>
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls>
-                    <source src="audio/lvc_vc/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                    <source src="audio/lvc_vc/s2s/p241_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
-              
           </tbody>
         </table>
     </div>
 </div>
+
 
 ### Unseen-to-Seen Voice Conversion
 
