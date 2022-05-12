@@ -1489,8 +1489,8 @@ TO-DO bla
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
           <thead>
             <tr>
-              <th style="width: 40%">Source Speaker</th>
-              <th style="width: 40%">Anonymized Output</th>
+              <th style="width: 100%">Source Speaker</th>
+              <th style="width: 100%">Anonymized Output</th>
             </tr>
           </thead>
             
