@@ -1486,7 +1486,7 @@ TO-DO
 
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: auto">Source Speaker</th>
@@ -1497,12 +1497,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top; width:50%"><p>p240 (Female)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p240_183.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top; width:50%"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p240_183_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1512,12 +1512,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>p264 (Female)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p264_377.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p264_377_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1527,12 +1527,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>p308 (Female)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p308_180.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p308_180_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1542,12 +1542,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>p311 (Male)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p311_397.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p311_397_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1557,12 +1557,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>p326 (Male)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p326_194.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p326_194_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1572,12 +1572,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>p363 (Male)</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/vctk_anon/p363_106.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/vctk_anon/p363_106_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1594,7 +1594,7 @@ TO-DO
 
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table">
           <thead>
             <tr>
               <th style="width: auto">Source Speaker</th>
@@ -1605,12 +1605,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 1</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/Cesar_652_0.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/Cesar_652_0_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1620,12 +1620,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 2</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/Christine_909_1.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/Christine_909_1_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1635,12 +1635,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 3</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/Dave_666_1.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/Dave_666_1_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1650,12 +1650,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 4</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/James_795_0.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/James_795_0_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1665,12 +1665,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 5</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/Miranda_1044_1.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/Miranda_1044_1_anon.wav" type="audio/wav" />
                 </audio>
               </td>
@@ -1680,12 +1680,12 @@ TO-DO
           <tbody>
             <tr>
               <td rowspan="12" style="vertical-align: top;"><p>Speaker 6</p>
-                <audio id="player" controls style="width: 9em;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/lvn_anon/Philomena_773_1.wav" type="audio/wav" />
                 </audio>
               </td>
               <td rowspan="12" style="vertical-align: top;"><p></p>
-                <audio id="player" controls style="width: 9em;">
+                <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvn_anon/Philomena_773_1_anon.wav" type="audio/wav" />
                 </audio>
               </td>
