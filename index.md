@@ -1496,12 +1496,12 @@ TO-DO
             
           <tbody>
             <tr>
-              <td rowspan="12" style="vertical-align: top;"><p>p240 (Female)</p>
+              <td rowspan="12" style="vertical-align: top; width:50%"><p>p240 (Female)</p>
                 <audio id="player" controls style="width: 9em;" >
                     <source src="audio/vctk_anon/p240_183.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="12" style="vertical-align: top;"><p></p>
+              <td rowspan="12" style="vertical-align: top; width:50%"><p></p>
                 <audio id="player" controls style="width: 9em;">
                     <source src="audio/vctk_anon/p240_183_anon.wav" type="audio/wav" />
                 </audio>
