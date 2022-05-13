@@ -19,7 +19,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
           
@@ -149,7 +148,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -279,7 +277,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -409,7 +406,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -541,7 +537,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
           
@@ -661,7 +656,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -779,7 +773,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -897,7 +890,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -1017,7 +1009,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
           
@@ -1137,7 +1128,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -1255,7 +1245,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
@@ -1373,7 +1362,6 @@ TO-DO
               <th style="width: 25%">Source Speaker</th>
               <th style="width: 25%">Target Speaker</th>
               <th colspan="2">Converted</th>
-              <th style="width: 40%">         </th>
             </tr>
           </thead>
             
