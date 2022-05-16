@@ -13,7 +13,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -142,7 +142,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -271,7 +271,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -400,7 +400,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -531,7 +531,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -650,7 +650,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -767,7 +767,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -884,7 +884,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -1003,7 +1003,7 @@ TO-DO
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -1122,7 +1122,7 @@ TO-DO
 <!-- Source: M2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -1239,7 +1239,7 @@ TO-DO
 <!-- Source: F1 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -1356,7 +1356,7 @@ TO-DO
 <!-- Source: F2 -->
 <div class="row">
     <div class="col-12 ml-auto">
-        <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
               <th style="width: 25%">Source Speaker</th>
@@ -1477,8 +1477,8 @@ TO-DO
         <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px; display: table;">
           <thead>
             <tr>
-              <th style="width: auto">Source Speaker</th>
-              <th style="width: auto">Anonymized Output</th>
+              <th style="width: 50%">Source Speaker</th>
+              <th style="width: 50%">Anonymized Output</th>
             </tr>
           </thead>
             
@@ -1585,8 +1585,8 @@ TO-DO
         <table class="table table-responsive align-content-center" style="background-color: whitesmoke; border-radius: 20px; display: table">
           <thead>
             <tr>
-              <th style="width: auto">Source Speaker</th>
-              <th style="width: auto">Anonymized Output</th>
+              <th style="width: 50%">Source Speaker</th>
+              <th style="width: 50%">Anonymized Output</th>
             </tr>
           </thead>
             
