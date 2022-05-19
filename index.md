@@ -16,15 +16,15 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
 ### Navigation
 
-* [Seen-to-Seen Voice Conversion (VCTK)](#seen-to-seen-voice-conversion-vctk)
-* [Unseen-to-Seen Voice Conversion (VCTK)](#unseen-to-seen-voice-conversion-vctk)
-* [Unseen-to-Unseen Voice Conversion (VCTK)](#unseen-to-unseen-voice-conversion-vctk)
-* [Un-targeted Voice Anonymization (VCTK)](#un-targeted-voice-anonymization-vctk)
+* [Seen-to-Seen Voice Conversion](#seen-to-seen-voice-conversion)
+* [Unseen-to-Seen Voice Conversion](#unseen-to-seen-voice-conversion)
+* [Unseen-to-Unseen Voice Conversion](#unseen-to-unseen-voice-conversion)
+* [Un-targeted Voice Anonymization](#un-targeted-voice-anonymization)
 <!-- * [Un-targeted Voice Anonymization (LVN)](#un-targeted-voice-anonymization-lvn) -->
 
 <p></p>
 
-### Seen-to-Seen Voice Conversion (VCTK)
+### Seen-to-Seen Voice Conversion
 
 [Back to top](#audio-demos)
 
@@ -544,7 +544,7 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
 <p></p>
 
-### Unseen-to-Seen Voice Conversion (VCTK)
+### Unseen-to-Seen Voice Conversion
 
 [Back to top](#audio-demos)
 
@@ -1018,7 +1018,7 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
 <p></p>
 
-### Unseen-to-Unseen Voice Conversion (VCTK)
+### Unseen-to-Unseen Voice Conversion
 
 [Back to top](#audio-demos)
 
@@ -1492,7 +1492,7 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
 <p></p>
 
-### Un-targeted Voice Anonymization (VCTK)
+### Un-targeted Voice Anonymization
 
 [Back to top](#audio-demos)
 
