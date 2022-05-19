@@ -11,7 +11,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 ## Audio Demos
 
-This page contains voice conversion demos for audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443). Additionally, it contains un-targeted voice anonymization demos for audio files from VCTK and from the [Local Voices Network (LVN)](https://cortico.ai/platform/). Please refer to our paper for the methodology.
+This page contains voice conversion demos for audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
+<!-- Additionally, it contains un-targeted voice anonymization demos for audio files from VCTK and from the [Local Voices Network (LVN)](https://cortico.ai/platform/). Please refer to our paper for the methodology. -->
 
 ### Navigation
 
@@ -19,7 +20,7 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 * [Unseen-to-Seen Voice Conversion (VCTK)](#unseen-to-seen-voice-conversion-vctk)
 * [Unseen-to-Unseen Voice Conversion (VCTK)](#unseen-to-unseen-voice-conversion-vctk)
 * [Un-targeted Voice Anonymization (VCTK)](#un-targeted-voice-anonymization-vctk)
-* [Un-targeted Voice Anonymization (LVN)](#un-targeted-voice-anonymization-lvn)
+<!-- * [Un-targeted Voice Anonymization (LVN)](#un-targeted-voice-anonymization-lvn) -->
 
 <p></p>
 
@@ -1601,7 +1602,7 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
 <p></p>
 
-### Un-targeted Voice Anonymization (LVN)
+<!-- ### Un-targeted Voice Anonymization (LVN)
 
 [Back to top](#audio-demos)
 
@@ -1707,4 +1708,4 @@ This page contains voice conversion demos for audio files from the [VCTK Corpus]
 
         </table>
     </div>
-</div>
+</div> -->
