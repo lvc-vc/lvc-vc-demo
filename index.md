@@ -1470,7 +1470,7 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 <p></p>
 
-### Un-targeted Voice Anonymization (VCTK)
+## Un-targeted Voice Anonymization (VCTK)
 
 <div class="row">
     <div class="col-12 ml-auto">
@@ -1578,7 +1578,7 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 <p></p>
 
-### Un-targeted Voice Anonymization (LVN)
+## Un-targeted Voice Anonymization (LVN)
 
 <div class="row">
     <div class="col-12 ml-auto">
