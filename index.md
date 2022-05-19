@@ -9,7 +9,9 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 <p></p>
 
-## Navigation
+## Audio Demos
+
+### Navigation
 
 * [Seen-to-Seen Voice Conversion (VCTK)](#seen-to-seen-voice-conversion-vctk)
 * [Unseen-to-Seen Voice Conversion (VCTK)](#unseen-to-seen-voice-conversion-vctk)
@@ -19,11 +21,9 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 <p></p>
 
-## Audio Demos
-
 ### Seen-to-Seen Voice Conversion (VCTK)
 
-[Back to top](#end-to-end-zero-shot-voice-style-transfer-with-location-variable-convolutions)
+[Back to top](#navigation)
 
 <!-- Source: M1 -->
 <div class="row">
@@ -543,6 +543,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 ### Unseen-to-Seen Voice Conversion (VCTK)
 
+[Back to top](#navigation)
+
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
@@ -1014,6 +1016,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 <p></p>
 
 ### Unseen-to-Unseen Voice Conversion (VCTK)
+
+[Back to top](#navigation)
 
 <!-- Source: M1 -->
 <div class="row">
@@ -1487,6 +1491,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 ### Un-targeted Voice Anonymization (VCTK)
 
+[Back to top](#navigation)
+
 <div class="row">
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-center" style="background-color: whitesmoke; display: table;">
@@ -1594,6 +1600,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 <p></p>
 
 ### Un-targeted Voice Anonymization (LVN)
+
+[Back to top](#navigation)
 
 <div class="row">
     <div class="col-12 ml-auto">
