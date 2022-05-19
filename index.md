@@ -11,15 +11,19 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 ## Navigation
 
-* [Seen-to-Seen Voice Conversion](#seen-to-seen-voice-conversion-(vctk))
-* [Unseen-to-Seen Voice Conversion](#unseen-to-seen-voice-conversion-(vctk))
-* [Unseen-to-Unseen Voice Conversion](#unseen-to-unseen-voice-conversion-(vctk))
+* [Seen-to-Seen Voice Conversion (VCTK)](#seen-to-seen-voice-conversion-vctk)
+* [Unseen-to-Seen Voice Conversion (VCTK)](#unseen-to-seen-voice-conversion-vctk)
+* [Unseen-to-Unseen Voice Conversion (VCTK)](#unseen-to-unseen-voice-conversion-vctk)
+* [Un-targeted Voice Anonymization (VCTK)](#un-targeted-voice-anonymization-vctk)
+* [Un-targeted Voice Anonymization (LVN)](#un-targeted-voice-anonymization-lvn)
 
 <p></p>
 
 ## Audio Demos
 
 ### Seen-to-Seen Voice Conversion (VCTK)
+
+[Back to top](#end-to-end-zero-shot-voice-style-transfer-with-location-variable-convolutions)
 
 <!-- Source: M1 -->
 <div class="row">
