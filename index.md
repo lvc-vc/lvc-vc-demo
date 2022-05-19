@@ -11,7 +11,8 @@ Zero-shot voice conversion is becoming an increasingly popular research directio
 
 ## Audio Demos
 
-This page contains voice conversion demos for audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
+This page contains voice conversion demos for LVC-VC applied to audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
+We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC-F0, Blow, and NVC-Net.
 <!-- Additionally, it contains un-targeted voice anonymization demos for audio files from VCTK and from the [Local Voices Network (LVN)](https://cortico.ai/platform/). Please refer to our paper for the methodology. -->
 
 ### Navigation
