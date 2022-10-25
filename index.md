@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Zero-shot voice conversion is becoming an increasingly popular research direction, as it promises the ability to transform speech to match the voice style of any speaker. However, little work has been done on end-to-end methods for this task, which are appealing because they remove the need for a separate vocoder to generate audio from intermediate features. In this work, we propose Location-Variable Convolution-based Voice Conversion (LVC-VC), a model for performing end-to-end zero-shot voice conversion that is based on a neural vocoder. LVC-VC utilizes carefully designed input features that have disentangled content and speaker style information, and the vocoder-like architecture learns to combine them to simultaneously perform voice conversion while synthesizing audio. To the best of our knowledge, LVC-VC is one of the first models to be proposed that can perform zero-shot voice conversion in an end-to-end manner, and it is the first to do so using a vocoder-like neural framework. Experiments show that our model achieves competitive or better voice style transfer performance compared to several baselines while maintaining the intelligibility of transformed speech much better.
+Zero-shot voice conversion is becoming an increasingly popular research direction, as it promises the ability to transform speech to match the vocal identity of any speaker. However, relatively little work has been done on end-to-end methods for this task, which are appealing because they remove the need for a separate vocoder to generate audio from intermediate features. In this work, we propose LVC-VC, an end-to-end zero-shot voice conversion model that uses location-variable convolutions (LVCs) to jointly model the conversion and speech synthesis processes with a small number of parameters. LVC-VC utilizes carefully designed input features that have disentangled content and speaker style information, and the neural vocoder-like architecture learns to combine them to perform voice conversion while simultaneously synthesizing audio. Experiments show that our model achieves competitive or better voice conversion performance compared to several baselines while maintaining intelligibility particularly well.
 
 <p></p>
 
@@ -17,7 +17,7 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
 * [Seen-to-Seen Voice Conversion](#seen-to-seen-voice-conversion)
 * [Unseen-to-Seen Voice Conversion](#unseen-to-seen-voice-conversion)
 * [Unseen-to-Unseen Voice Conversion](#unseen-to-unseen-voice-conversion)
-* [Un-targeted Voice Anonymization](#un-targeted-voice-anonymization)
+<!-- * [Un-targeted Voice Anonymization](#un-targeted-voice-anonymization) -->
 <!-- * [Un-targeted Voice Anonymization (LVN)](#un-targeted-voice-anonymization-lvn) -->
 
 <p></p>
@@ -1490,7 +1490,7 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
 
 <p></p>
 
-### Un-targeted Voice Anonymization
+<!-- ### Un-targeted Voice Anonymization
 
 [Back to top](#audio-demos)
 
@@ -1598,7 +1598,7 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
     </div>
 </div>
 
-<p></p>
+<p></p> -->
 
 <!-- ### Un-targeted Voice Anonymization (LVN)
 
