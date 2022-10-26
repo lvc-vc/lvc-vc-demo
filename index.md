@@ -1,4 +1,7 @@
-# End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions
+# End-to-End Zero-Shot Voice Conversion with 
+# Location-Variable Convolutions
+
+Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy
 
 ## Abstract
 
