@@ -2,5 +2,3 @@
 ---
 
 @import 'jekyll-theme-cayman';
-
-<a href="{{ https://arxiv.org/abs/2205.09784 }}" class="btn">arXiv</a>
