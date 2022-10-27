@@ -1,2 +1,2 @@
 # lvc-vc-demo
-Demo page for audio samples from LVC-VC
+<font size="5">Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy</font>
