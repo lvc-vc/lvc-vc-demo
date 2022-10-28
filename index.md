@@ -1,8 +1,6 @@
 # End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions
 
-<!-- <font size="5"> Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy </font>
-
-[[arXiv]](https://arxiv.org/abs/2205.09784) -->
+<font size="5"> Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy </font>
 
 ## Abstract
 
