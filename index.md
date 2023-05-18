@@ -1,10 +1,10 @@
 # End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions
 
-<!-- <font size="5"> Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy </font> -->
+<font size="5"> Wonjune Kang, Mark Hasegawa-Johnson, Deb Roy </font>
 
 ## Abstract
 
-Zero-shot voice conversion is becoming an increasingly popular research direction, as it promises the ability to transform speech to match the vocal identity of any speaker. However, relatively little work has been done on end-to-end methods for this task, which are appealing because they remove the need for a separate vocoder to generate audio from intermediate features. In this work, we propose LVC-VC, an end-to-end zero-shot voice conversion model that uses location-variable convolutions (LVCs) to jointly model the conversion and speech synthesis processes with a small number of parameters. LVC-VC utilizes carefully designed input features that have disentangled content and speaker style information, and the neural vocoder-like architecture learns to combine them to perform voice conversion while simultaneously synthesizing audio. Experiments show that our model achieves competitive or better voice conversion performance compared to several baselines while maintaining intelligibility particularly well.
+Zero-shot voice conversion is becoming an increasingly popular research topic, as it promises the ability to transform speech to sound like any speaker. However, relatively little work has been done on end-to-end methods for this task, which are appealing because they remove the need for a separate vocoder to generate audio from intermediate features. In this work, we propose LVC-VC, an end-to-end zero-shot voice conversion model that uses location-variable convolutions (LVCs) to jointly model the conversion and speech synthesis processes. LVC-VC utilizes carefully designed input features that have disentangled content and speaker information, and it uses a neural vocoder-like architecture that utilizes LVCs to efficiently combine them and perform voice conversion while directly synthesizing time domain audio. Experiments show that our model achieves especially well balanced performance between voice style transfer and speech intelligibility compared to several baselines.
 
 <p></p>
 
