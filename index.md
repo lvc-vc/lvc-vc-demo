@@ -12,6 +12,9 @@ Zero-shot voice conversion is becoming an increasingly popular research topic, a
 
 This page contains voice conversion demos for LVC-VC applied to audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
 We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC-F0, Blow, and NVC-Net.
+
+Additionally, it includes code for a larger, improved version of the model (not described in the paper), which we call LVC-VC XL. This version of the model uses a larger channel size of 32 (rather than 16) in its LVC layers, utilizes embeddings from [XLSR-53](https://arxiv.org/abs/2006.13979) as content features, and uses information perturbation to extract only linguistic information from them (as done in [NANSY](https://arxiv.org/abs/2110.14513)). It also uses speaker embeddings from [ECAPA-TDNN](https://arxiv.org/abs/2005.07143) rather than [Fast ResNet-34](https://arxiv.org/abs/2003.11982).
+
 <!-- Additionally, it contains un-targeted voice anonymization demos for audio files from VCTK and from the [Local Voices Network (LVN)](https://cortico.ai/platform/). Please refer to our paper for the methodology. -->
 
 ### Navigation
@@ -95,6 +98,13 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
                 </audio>
               </td>
             </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
 
             <!-- M1 to F -->
             <tr>
@@ -147,6 +157,13 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/s2s/p241_237_p228_313.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/s2s/p241_237_p228_313.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
@@ -224,7 +241,14 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
                 </audio>
               </td>
             </tr>
-
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/s2s/p247_311_p245_143.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+              
             <!-- M2 to F -->
             <tr>
               <td rowspan="7" style="vertical-align: top;"><p>p247 (Male)</p>
@@ -276,6 +300,13 @@ We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/s2s/p247_005_p335_355.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/s2s/p247_005_p335_355.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
