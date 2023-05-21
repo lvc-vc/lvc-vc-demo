@@ -1174,6 +1174,11 @@ Additionally, it includes code for a larger, improved version of the model (not 
               </td>
             </tr>
             <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p279_182_p363_023.wav" type="audio/wav" />
+                </audio>
+              </td>
             </tr>
 
             <!-- M1 to F -->
@@ -1222,6 +1227,13 @@ Additionally, it includes code for a larger, improved version of the model (not 
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/u2u/p279_032_p240_184.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p279_032_p240_184.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
@@ -1293,6 +1305,11 @@ Additionally, it includes code for a larger, improved version of the model (not 
               </td>
             </tr>
             <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p363_127_p311_072.wav" type="audio/wav" />
+                </audio>
+              </td>
             </tr>
 
             <!-- M2 to F -->
@@ -1339,6 +1356,13 @@ Additionally, it includes code for a larger, improved version of the model (not 
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/u2u/p363_261_p312_322.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p363_261_p312_322.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
@@ -1410,6 +1434,11 @@ Additionally, it includes code for a larger, improved version of the model (not 
               </td>
             </tr>
             <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p231_259_p326_355.wav" type="audio/wav" />
+                </audio>
+              </td>
             </tr>
 
             <!-- F1 to F -->
@@ -1456,6 +1485,13 @@ Additionally, it includes code for a larger, improved version of the model (not 
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/u2u/p231_318_p240_219.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p231_318_p240_219.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
@@ -1527,6 +1563,11 @@ Additionally, it includes code for a larger, improved version of the model (not 
               </td>
             </tr>
             <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p308_103_p311_246.wav" type="audio/wav" />
+                </audio>
+              </td>
             </tr>
 
             <!-- F2 to F -->
@@ -1573,6 +1614,13 @@ Additionally, it includes code for a larger, improved version of the model (not 
               <td><p><b>LVC-VC</b></p>
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/lvc_vc/u2u/p308_390_p317_376.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+            <tr>
+              <td><p><b>LVC-VC XL</b></p>
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/lvc_vc_xl/u2u/p308_390_p317_376.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
