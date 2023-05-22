@@ -10,10 +10,10 @@ Zero-shot voice conversion is becoming an increasingly popular research topic, a
 
 ## Audio Demos
 
-This page contains voice conversion demos for LVC-VC applied to audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
+This page contains voice conversion samples for LVC-VC applied to audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
 We provide comparisons with six other models: AdaIN-VC, AGAIN-VC, AutoVC, AutoVC-F0, Blow, and NVC-Net.
 
-Additionally, it includes code for a larger, improved version of the model (not described in the paper), which we call LVC-VC XL. This version of the model uses a larger channel size of 32 (rather than 16) in its LVC layers, utilizes embeddings from [XLSR-53](https://arxiv.org/abs/2006.13979) as content features, and uses information perturbation to extract only linguistic information from them (as done in [NANSY](https://arxiv.org/abs/2110.14513)). It also uses speaker embeddings from [ECAPA-TDNN](https://arxiv.org/abs/2005.07143) rather than [Fast ResNet-34](https://arxiv.org/abs/2003.11982).
+Additionally, it includes samples from a larger, improved version of the model (not described in the paper), which we call LVC-VC XL. This version of the model uses a larger channel size of 32 (rather than 16) in its LVC layers, utilizes embeddings from [XLSR-53](https://arxiv.org/abs/2006.13979) as content features, and uses information perturbation to extract only linguistic information from them (as done in [NANSY](https://arxiv.org/abs/2110.14513)). It also uses speaker embeddings from [ECAPA-TDNN](https://arxiv.org/abs/2005.07143) rather than [Fast ResNet-34](https://arxiv.org/abs/2003.11982). Please refer to the code for more details.
 
 <!-- Additionally, it contains un-targeted voice anonymization demos for audio files from VCTK and from the [Local Voices Network (LVN)](https://cortico.ai/platform/). Please refer to our paper for the methodology. -->
 
